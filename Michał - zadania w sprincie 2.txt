@@ -1,0 +1,5 @@
+-Zmiana jakoœci modelu postaci na taki o lepszej jakoœci
+-Dodanie wiekszej iloœci animacji (zmiana istniej¹cych oraz dodanie animacji skoku i ataku)
+-stworzenie NPC 
+-zaprogramowanie mo¿liwosci dialogu z NPC
+
