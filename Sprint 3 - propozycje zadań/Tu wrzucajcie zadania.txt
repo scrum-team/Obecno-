@@ -7,4 +7,14 @@ MK------------------------------------------------------------------------
 AK
 Stworzenie scenariusza do gry (2 dni robocze)
 Dodanie npc-ów do gry(2 dni robocze) 
+a)tworzenie modelów
+b)tworzenie kodu tekstowego
+c)dodawanie animacji
+Omówienie gry
+a)ze względu na typ - RPG
+b)ze względu na płatność - abonament
+c)ilość graczy - gra jedno osobowa
+d)sposób widoku- gra trzecio-osobowa
+e)target(odbiorcy) - 12+
+f)region-Europa
 Ak
