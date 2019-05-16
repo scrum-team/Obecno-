@@ -11,7 +11,6 @@ a)tworzenie modelów
 b)tworzenie tekstu dialogów
 c)dodawanie animacji
 Omówienie gry
-MKKBLACHA
 a)ze względu na typ - RPG
 b)ze względu na płatność - abonament
 c)ilość graczy - gra jedno osobowa
