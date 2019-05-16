@@ -8,7 +8,7 @@ AK
 Stworzenie scenariusza do gry (2 dni robocze)
 Dodanie npc-ów do gry(2 dni robocze) 
 a)tworzenie modelów
-b)tworzenie kodu tekstowego
+b)tworzenie tekstu dialogów
 c)dodawanie animacji
 Omówienie gry
 a)ze względu na typ - RPG
