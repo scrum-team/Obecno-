@@ -4,3 +4,7 @@ znalezienie muzyki do wioski (2 dni robocze)
 znalezienie dźwięków chodzenia po różnych typach podłoża (1 dzień roboczy)
 znalezienie dźwięków biegania po różnych typach podłoża (1 dzień roboczy)
 MK------------------------------------------------------------------------
+AK
+Stworzenie scenariusza do gry (~1h)
+Dodanie npc-ów do gry(~2h) 
+Ak
