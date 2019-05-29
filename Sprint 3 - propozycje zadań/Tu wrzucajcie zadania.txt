@@ -12,7 +12,7 @@ b)tworzenie tekstu dialogów
 c)dodawanie animacji
 Omówienie gry
 a)ze względu na typ - RPG
-b)ze względu na płatność - abonament
+b)ze względu na płatność - jednorazowo
 c)ilość graczy - gra jedno osobowa
 d)sposób widoku- gra trzecio-osobowa
 e)target(odbiorcy) - 12+
