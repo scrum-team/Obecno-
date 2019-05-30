@@ -6,11 +6,9 @@ znalezienie dźwięków biegania po różnych typach podłoża (1 dzień roboczy
 MK------------------------------------------------------------------------
 AK
 Stworzenie scenariusza do gry (2 dni robocze)
-Dodanie npc-ów do gry(2 dni robocze) 
-a)tworzenie modelów
-b)tworzenie tekstu dialogów
-c)dodawanie animacji
-Omówienie gry
+Opisanie rozgrywki (1 dzień roboczy)
+Opisanie postaci pobocznych w grze (1 dzień roboczy)
+Omówienie gry (1 dzień roboczy)
 a)ze względu na typ - RPG
 b)ze względu na płatność - jednorazowo
 c)ilość graczy - gra jedno osobowa
